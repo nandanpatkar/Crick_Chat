@@ -1,0 +1,7 @@
+streamlit
+langchain-ollama
+langchain
+python-box
+uvicorn
+ollama
+streamlit
